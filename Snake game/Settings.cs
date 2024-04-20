@@ -15,8 +15,8 @@ namespace Snake_game
 
         public Settings() 
         {
-            Width = 16;
-            Height = 16;
+            Width = 24;
+            Height = 24;
             directions = "left";
         }
     }
